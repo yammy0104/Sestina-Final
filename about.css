@@ -1,0 +1,30 @@
+.goal {
+  font-size: 60px;
+  text-align: center;
+  font-family: 'Poiret One', cursive;
+  color: white;
+  z-index: 0;
+  padding-top: 100px;
+}
+p {
+  font-size: 30px;
+  text-align: center;
+  color: white;
+  font-family: 'Amatic SC', cursive;
+  padding-top: 100px;
+}
+.linear{
+  position:absolute;
+  top:0;
+
+  background-image: linear-gradient(to top, #405084,#081230);
+  height: 1500px;
+  width: 100%;
+  z-index:-1;
+}
+.star {
+  padding-top: 500px;
+  width: 1080px;
+  height: 288px;
+  margin: auto;
+}
